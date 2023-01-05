@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Jan 15 - 17, 2023
+- Facilitator: @geovanams
 
 ## Class Resources
 
